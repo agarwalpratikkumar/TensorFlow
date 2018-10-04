@@ -1,4 +1,5 @@
 # TensorFlow
+Digit Recognition is done using Logistic Regression.
 For Logistic Regression we will use Softmax and Cross entropy.
 
 **Cross-Entropy:** http://neuralnetworksanddeeplearning.com/chap3.html , https://ml-cheatsheet.readthedocs.io/en/latest/loss_functions.html#cross-entropy
